@@ -1,0 +1,64 @@
+{
+  "songlist": [
+        {
+          "title":"Can’t Help Falling In Love",
+          "artist": "Elvis Presley",
+          "music_genre": "Pop",
+          "year": 1961
+        },
+        {
+          "title":"Uptown Funk",
+          "artist": "Bruno Mars",
+          "music_genre": "Pop",
+          "year": 2014
+        },
+        {
+          "title":"Say So",
+          "artist": "Elvis Presley",
+          "music_genre": "Pop",
+          "year": 2019
+        },
+        {
+          "title":"Bless the Broken Road",
+          "artist": "Elvis Presley",
+          "music_genre": "Country",
+          "year": 2004
+        },
+        {
+          "title":"24k Magic",
+          "artist": "Bruno Mars",
+          "music_genre": "R and B",
+          "year": 2016
+        },
+        {
+          "title":"Adore You",
+          "artist": "Harry Styles",
+          "music_genre": "Pop",
+          "year": 2019
+        },
+        {
+          "title":"Africa",
+          "artist": "Toto",
+          "music_genre": "Pop",
+          "year": 1982
+        },
+        {
+          "title":"Best Day Of My Life",
+          "artist": "American Authors",
+          "music_genre": "Rock",
+          "year": 2013
+        },
+        {
+          "title":"Billie Jean",
+          "artist": "Michael Jackson",
+          "music_genre": "R and B",
+          "year": 1982
+        },
+        {
+          "title":"Kickstart My Heart",
+          "artist": "Motley Crue",
+          "music_genre": "Rock",
+          "year": 1989
+        }
+  ]
+}
